@@ -3,8 +3,8 @@
     {
 
         "name": "Artesano Original Flavor Bakery Bread",
-        "regular price":"$3.48",
-        "sale price":"$2.99",
+        "regularPrice":"$3.48",
+        "salePrice":"$2.99",
         "description":"Artesano Original Flavor Bakery Bread, 20 oz, Sara Lee",
         "department":"Bread",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/artesano_bread_iubmux.jpg"
@@ -14,8 +14,8 @@
     {
         
         "name": "King Thin White Bread",
-        "regular price":"$2.89",
-        "sale price":"$2.50",
+        "regularPrice":"$2.89",
+        "salePrice":"$2.50",
         "description":"King Thin White Bread, 20 oz, Sunbeam",
         "department":"Bread",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/sunbeam_bread_txmqqv.jpg"
@@ -26,8 +26,8 @@
     {
         
         "name": "Wonder Bread Classic White Bread",
-        "regular price":"$2.49",
-        "sale price":"$2.00",
+        "regularPrice":"$2.49",
+        "salePrice":"$2.00",
         "description":"Classic White Bread, 20 oz, Wonder Bread",
         "department":"Bread",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/wonder_bread_rzdpj6.jpg"
@@ -37,8 +37,8 @@
     {
         
         "name": "Plain Bagels",
-        "regular price":"$4.79",
-        "sale price":"$4.49",
+        "regularPrice":"$4.79",
+        "salePrice":"$4.49",
         "description":"Plain Bagels, 6 ct, Thomas'",
         "department":"Bread",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/thomas_bagels_cx2zqk.jpg"
@@ -48,8 +48,8 @@
     {
         
         "name": "Milk, Whole",
-        "regular price":"$2.99",
-        "sale price":"$1.99",
+        "regularPrice":"$2.99",
+        "salePrice":"$1.99",
         "description":"Gallon of Whole Milk, Ham King Brand",
         "department":"Dairy",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/whole_milk_peclrn.jpg"
@@ -59,8 +59,8 @@
     {
         
         "name": "Milk, 2%",
-        "regular price":"$2.99",
-        "sale price":"$1.99",
+        "regularPrice":"$2.99",
+        "salePrice":"$1.99",
         "description":"Gallon of 2% Milk, Ham King Brand",
         "department":"Dairy",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/2_milk_fo8cbh.jpg"
@@ -70,8 +70,8 @@
     {
         
         "name": "Chocolate Milk",
-        "regular price":"$4.99",
-        "sale price":"$3.50",
+        "regularPrice":"$4.99",
+        "salePrice":"$3.50",
         "description":"Gallon of Chocolate Milk, Ham King Brand",
         "department":"Dairy",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/chocolate_mill_h1bwrq.png"
@@ -81,8 +81,8 @@
     {
         
         "name": "Lowfat Yogurt Vanilla",
-        "regular price":"$2.00",
-        "sale price":"$1.59",
+        "regularPrice":"$2.00",
+        "salePrice":"$1.59",
         "description":"Lowfat Yogurt Vanilla Cup, 32 oz, Ham King Brand",
         "department":"Dairy",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/yogurt_ldxnyv.jpg"
@@ -92,8 +92,8 @@
     {
         
         "name": "80% Lean Ground Beef Chuck",
-        "regular price":"$5.29",
-        "sale price":"$4.80",
+        "regularPrice":"$5.29",
+        "salePrice":"$4.80",
         "description":"80% Lean Ground Beef Chuck, Price per Pound, Ham King Brand",
         "department":"Meat",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/80_Lean_Ground_Beef_Chuck_ppb03c.jpg"
@@ -103,8 +103,8 @@
     {
         
         "name": "Bone In Center Cut Pork Chops",
-        "regular price":"$4.19",
-        "sale price":"$3.14",
+        "regularPrice":"$4.19",
+        "salePrice":"$3.14",
         "description":"Bone In Center Cut Pork Chops, Price per Pound, Ham King Brand",
         "department":"Meat",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/Bone_In_Center_Cut_Pork_Chops_uvstn4.jpg"
@@ -114,8 +114,8 @@
     {
         
         "name": "Boneless Thin Sliced Pork Chops",
-        "regular price":"$4.99",
-        "sale price":"$3.74",
+        "regularPrice":"$4.99",
+        "salePrice":"$3.74",
         "description":"Boneless Thin Sliced Pork Chops, Price per Pound, Ham King Brand",
         "department":"Meat",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/Boneless_Thin_Sliced_Pork_Chops_ysyvsf.jpg"
@@ -125,8 +125,8 @@
     {
         
         "name": "Boneless Beef Sirloin Steak Value Pack",
-        "regular price":"$9.99",
-        "sale price":"$7.99",
+        "regularPrice":"$9.99",
+        "salePrice":"$7.99",
         "description":"Boneless Beef Sirloin Steak Value Pack, Price per Pound, Ham King Brand",
         "department":"Meat",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/Boneless_Beef_Sirloin_Steak_Value_Pack_a2m1vj.jpg"
@@ -136,8 +136,8 @@
     {
         
         "name": "Dr. Pepper Soda",
-        "regular price":"$5.99",
-        "sale price":"$3.67",
+        "regularPrice":"$5.99",
+        "salePrice":"$3.67",
         "description":"Dr. Pepper Soda, 12ct, 12 fl oz",
         "department":"Drinks",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/dr._pepper_t3kwmq.jpg"
@@ -147,8 +147,8 @@
     {
         
         "name": "Water, Purified, 24 Pack",
-        "regular price":"$2.98",
-        "sale price":"$1.98",
+        "regularPrice":"$2.98",
+        "salePrice":"$1.98",
         "description":"Water, Purified, 24 Pack, 16.9 oz, Ham King Brand",
         "department":"Drinks",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/water_bottles_sofdml.jpg"
@@ -158,8 +158,8 @@
     {
         
         "name": "Fruit Punch Naturally Flavored Juice Drink Blend",
-        "regular price":"$3.48",
-        "sale price":"$2.79",
+        "regularPrice":"$3.48",
+        "salePrice":"$2.79",
         "description":"Fruit Punch Naturally Flavored Juice Drink Blend, 12 ct, 6 fl oz, Capri Sun",
         "department":"Drinks",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/caprisun_sz1psr.jpg"
@@ -168,8 +168,8 @@
     {
         
         "name": "Orange Thirst Quencher, Sports Drink",
-        "regular price":"$7.39",
-        "sale price":"$6.00",
+        "regularPrice":"$7.39",
+        "salePrice":"$6.00",
         "description":"Orange Thirst Quencher, Sports Drink, 8 ct, 20 fl oz, Gatorade",
         "department":"Drinks",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/gatorade_ehvhjn.jpg"
@@ -179,8 +179,8 @@
     {
         
         "name": "Classic Mini Corn Dogs",
-        "regular price":"$7.99",
-        "sale price":"$6.50",
+        "regularPrice":"$7.99",
+        "salePrice":"$6.50",
         "description":"Classic Mini Corn Dogs, 46 ct, State Fair",
         "department":"Frozen",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/corndogs_rt8jcb.jpg"
@@ -190,8 +190,8 @@
     {
         
         "name": "Fully Cooked Chicken Nuggets",
-        "regular price":"$7.19",
-        "sale price":"$5.79",
+        "regularPrice":"$7.19",
+        "salePrice":"$5.79",
         "description":"Fully Cooked Chicken Nuggets, 2 lbs, Tyson",
         "department":"Frozen",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/chicken_nuggets_eid8ev.jpg"
@@ -201,8 +201,8 @@
     {
         
         "name": "French Bread Singles Pepperoni Pizzas",
-        "regular price":"$3.69",
-        "sale price":"$2.78",
+        "regularPrice":"$3.69",
+        "salePrice":"$2.78",
         "description":"French Bread Singles Pepperoni Pizzas, 2 ct, Red Baron",
         "department":"Frozen",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
@@ -212,8 +212,8 @@
     {
         
         "name": "Pepperoni Frozen Pizza Rolls",
-        "regular price":"$5.29",
-        "sale price":"$4.29",
+        "regularPrice":"$5.29",
+        "salePrice":"$4.29",
         "description":"Pepperoni Frozen Pizza Rolls, 50 ct, Totino's",
         "department":"Frozen",
         "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/pizza_roll_o1sb7u.jpg"
