@@ -7,7 +7,8 @@
         "salePrice":"$2.99",
         "description":"Artesano Original Flavor Bakery Bread, 20 oz, Sara Lee",
         "department":"Bread",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/artesano_bread_iubmux.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1637000275/artesano_bread_iubmux.jpg" 
+        
 
     },
 
@@ -18,7 +19,7 @@
         "salePrice":"$2.50",
         "description":"King Thin White Bread, 20 oz, Sunbeam",
         "department":"Bread",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/sunbeam_bread_txmqqv.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1637000126/sunbeam_bread_txmqqv.jpg"
 
 
     },
@@ -30,7 +31,7 @@
         "salePrice":"$2.00",
         "description":"Classic White Bread, 20 oz, Wonder Bread",
         "department":"Bread",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/wonder_bread_rzdpj6.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1637000048/wonder_bread_rzdpj6.jpg"
 
     },
 
@@ -41,7 +42,7 @@
         "salePrice":"$4.49",
         "description":"Plain Bagels, 6 ct, Thomas'",
         "department":"Bread",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/thomas_bagels_cx2zqk.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636999885/thomas_bagels_cx2zqk.jpg"
 
     },
 
