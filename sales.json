@@ -7,7 +7,7 @@
         "sale price":"$2.99",
         "description":"Artesano Original Flavor Bakery Bread, 20 oz, Sara Lee",
         "department":"Bread",
-        "img":"/images/red baron.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/artesano_bread_iubmux.jpg"
 
     },
 
@@ -18,7 +18,7 @@
         "sale price":"$2.50",
         "description":"King Thin White Bread, 20 oz, Sunbeam",
         "department":"Bread",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/sunbeam_bread_txmqqv.jpg"
 
 
     },
@@ -30,7 +30,7 @@
         "sale price":"$2.00",
         "description":"Classic White Bread, 20 oz, Wonder Bread",
         "department":"Bread",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/wonder_bread_rzdpj6.jpg"
 
     },
 
@@ -41,7 +41,7 @@
         "sale price":"$4.49",
         "description":"Plain Bagels, 6 ct, Thomas'",
         "department":"Bread",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/thomas_bagels_cx2zqk.jpg"
 
     },
 
@@ -52,7 +52,7 @@
         "sale price":"$1.99",
         "description":"Gallon of Whole Milk, Ham King Brand",
         "department":"Dairy",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/whole_milk_peclrn.jpg"
 
     },
 
@@ -63,7 +63,7 @@
         "sale price":"$1.99",
         "description":"Gallon of 2% Milk, Ham King Brand",
         "department":"Dairy",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/2_milk_fo8cbh.jpg"
 
     },
 
@@ -74,7 +74,7 @@
         "sale price":"$3.50",
         "description":"Gallon of Chocolate Milk, Ham King Brand",
         "department":"Dairy",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/chocolate_mill_h1bwrq.png"
 
     },
 
@@ -85,7 +85,7 @@
         "sale price":"$1.59",
         "description":"Lowfat Yogurt Vanilla Cup, 32 oz, Ham King Brand",
         "department":"Dairy",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/yogurt_ldxnyv.jpg"
 
     },
 
@@ -96,7 +96,7 @@
         "sale price":"$4.80",
         "description":"80% Lean Ground Beef Chuck, Price per Pound, Ham King Brand",
         "department":"Meat",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/80_Lean_Ground_Beef_Chuck_ppb03c.jpg"
 
     },
 
@@ -107,7 +107,7 @@
         "sale price":"$3.14",
         "description":"Bone In Center Cut Pork Chops, Price per Pound, Ham King Brand",
         "department":"Meat",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/Bone_In_Center_Cut_Pork_Chops_uvstn4.jpg"
 
     },
 
@@ -118,7 +118,7 @@
         "sale price":"$3.74",
         "description":"Boneless Thin Sliced Pork Chops, Price per Pound, Ham King Brand",
         "department":"Meat",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/Boneless_Thin_Sliced_Pork_Chops_ysyvsf.jpg"
 
     },
 
@@ -129,7 +129,7 @@
         "sale price":"$7.99",
         "description":"Boneless Beef Sirloin Steak Value Pack, Price per Pound, Ham King Brand",
         "department":"Meat",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/Boneless_Beef_Sirloin_Steak_Value_Pack_a2m1vj.jpgg"
 
     },
 
@@ -140,7 +140,7 @@
         "sale price":"$3.67",
         "description":"Dr. Pepper Soda, 12ct, 12 fl oz",
         "department":"Drinks",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/dr._pepper_t3kwmq.jpg"
 
     },
 
@@ -151,7 +151,7 @@
         "sale price":"$1.98",
         "description":"Water, Purified, 24 Pack, 16.9 oz, Ham King Brand",
         "department":"Drinks",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/water_bottles_sofdml.jpg"
 
     },
 
@@ -162,7 +162,7 @@
         "sale price":"$2.79",
         "description":"Fruit Punch Naturally Flavored Juice Drink Blend, 12 ct, 6 fl oz, Capri Sun",
         "department":"Drinks",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/caprisun_sz1psr.jpg"
 
     },
     {
@@ -172,7 +172,7 @@
         "sale price":"$6.00",
         "description":"Orange Thirst Quencher, Sports Drink, 8 ct, 20 fl oz, Gatorade",
         "department":"Drinks",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/gatorade_ehvhjn.jpg"
 
     },
 
@@ -183,7 +183,7 @@
         "sale price":"$6.50",
         "description":"Classic Mini Corn Dogs, 46 ct, State Fair",
         "department":"Frozen",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996511/corndogs_rt8jcb.jpg"
 
     },
 
@@ -194,7 +194,7 @@
         "sale price":"$5.79",
         "description":"Fully Cooked Chicken Nuggets, 2 lbs, Tyson",
         "department":"Frozen",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/chicken_nuggets_eid8ev.jpg"
 
     },
 
@@ -216,7 +216,7 @@
         "sale price":"$4.29",
         "description":"Pepperoni Frozen Pizza Rolls, 50 ct, Totino's",
         "department":"Frozen",
-        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636949418/large_03b8c6be-9b91-44b6-86a5-fae7fd0ed71d_c0zdbj.jpg"
+        "img":"https://res.cloudinary.com/dnd0inkht/image/upload/v1636996512/pizza_roll_o1sb7u.jpg"
 
     }
 
